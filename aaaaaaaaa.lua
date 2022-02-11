@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KoolaidMembers/myscripts/main/aa.lua",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KoolaidMembers/FESDSDGDFS/main/aaaa.lua",true))()
